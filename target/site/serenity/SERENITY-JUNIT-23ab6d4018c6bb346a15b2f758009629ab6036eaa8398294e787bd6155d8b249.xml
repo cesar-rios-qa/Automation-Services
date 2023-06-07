@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="As a user" skipped="0" tests="1" time="8.57" timestamp="2023-06-06 07:22:25"><testcase name="Successfully obtaining a resource"><error message="Cannot invoke &quot;java.lang.Throwable.getMessage()&quot; because &quot;actualError&quot; is null" type="java.lang.AssertionError">Cannot invoke "java.lang.Throwable.getMessage()" because "actualError" is null</error><system-err>Cannot invoke "java.lang.Throwable.getMessage()" because "actualError" is null
+co.com.practice.stepdefinitions.GetStepdefinitions.validateFieldGetResponseApi(GetStepdefinitions.java:63)
+✽.Validate field and Value get response api(file:///Users/cesarriosusuga/Downloads/ServiciosRest-Prueba/src/test/resources/features/Services.feature:12)
+</system-err></testcase></testsuite>
